@@ -5,17 +5,13 @@ The data collected on water sources, water collection, and crime in Maji Ndogo p
 understanding of the daily life of its inhabitants and the critical role water plays in their lives.
 
 <h3>Project 1</h3>
---Understanding the 60 000 records collected by surveyors and engineers
---Identify the different water sources
---Discover the visiting patterns from surveyors
+--Understanding the 60 000 records collected by surveyors and engineers <br/>
+--Identify the different water sources <br/>
+--Discover the visiting patterns from surveyors <br/>
 --Document pollution issues in the water sources
-
 
 <h3>Project 2</h3>
 
-
-
 <h3>Project 3</h3>
-
 
 <h3>Project 4</h3>
