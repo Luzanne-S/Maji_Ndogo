@@ -11,7 +11,17 @@ understanding of the daily life of its inhabitants and the critical role water p
 --Document pollution issues in the water sources
 
 <h3>Project 2</h3>
+--Cleaning up additional data  <br/>
+--Breaking down the scope of the problem<br/>
+--Creating hypothesis<br/>
+--Analyse water collection queues
 
 <h3>Project 3</h3>
+--Creating a ERD to understand the relationship of the tables<br/>
+--Joining tables to find duplicates in the data <br/>
+--Linking tables to find dicrepancies: numerous visits to locations, reports of potential fraud<br/>
 
 <h3>Project 4</h3>
+--Eliminating fraudulent cases<br/>
+--Finding a practical solution to implement<br/>
+--Creating a table for engineers to update when work has been done on a particular project<br/>
