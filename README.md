@@ -1,5 +1,5 @@
-<h1>Maji Ndogo </h1>
-Access to water is a human right and in Maji Ndogo accessing water for the majority of citizens is less accessible than international standards.
+<h1>Water Crisis</h1>
+Access to water is a human right and in a fictional country* accessing water for the majority of citizens is less accessible than international standards.
 
 The data collected on water sources, water collection, and crime in Maji Ndogo provide us with a deeper
 understanding of the daily life of its inhabitants and the critical role water plays in their lives.
